@@ -1,13 +1,11 @@
 ### Hi, there I am, Khaidem Sandip Singha. 👋
 
-## I am a Software Developer
+## I am an Application Engineer
 
-- 🧙‍♀️ I am a Front End Developer with expertise in Javascript and ReactJS
 - 💪 I love coding challenges in [Leetcode](https://leetcode.com/Kurosakicoder/)
 - 🤝 I love to connect with the online [Discord](https://scrimba.com/) events.
-- 💻 I have experience in NodeJs and MongoDB
 - 🥅 2022 Goals: Not to worry and work hard.
-- ⚡ Fun fact: I love programming 
+- ⚡ Fun fact: I love walking 
 
 ### Connect with me:
 
